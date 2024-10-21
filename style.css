@@ -42,6 +42,7 @@
         border-radius: 5px;
         border: none;
         cursor: pointer;
+            margin-top:40px;
       }
 
       .reloadBtn:hover {
