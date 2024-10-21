@@ -42,11 +42,13 @@
         border-radius: 5px;
         border: none;
         cursor: pointer;
-            margin-top:40px;
+        margin-top: 65px;
+        background-color: #eaeaea1d;
+
       }
 
       .reloadBtn:hover {
-        background-color: #eaeaea;
+        background-color: #eaeaeac9;
       }
       
       .night {
